@@ -1,0 +1,3 @@
+[submodule "ProjetX"]
+	path = TP_Restitution/ProjetX
+	url = git@github.com:MikkoPet/ProjX.git
