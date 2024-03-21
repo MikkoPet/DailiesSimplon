@@ -14,14 +14,14 @@ Hachemi
 - [x] Brancher son terminal en SSH avec Github
 - [x] Installation et configuration de Git
 - [x] Comprendre le versionning
-- [ ] Comprendre le fonctionnement de Git
-  - [ ] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
+- [x] Comprendre le fonctionnement de Git
+  - [x] Comprendre le staging de Git
+  - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [x] git init
     - [x] git add
     - [x] git status
     - [x] git commit
-    - [ ] git remote
+    - [x] git remote
     - [x] git pull
     - [x] git push
     - [x] git clone

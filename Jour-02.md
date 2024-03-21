@@ -11,7 +11,7 @@ Hachemi
   - [ ] Installation navigateur (Developper Edition)
   - [ ] Création et configuration Mail pro
   - [ ] Création et configuration Linkedin
-  - [ ] Installation Linux ou WSL sur Windows
+  - [x] Installation Linux ou WSL sur Windows
 - [x] Découverte du Terminal :
   - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   - [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH
