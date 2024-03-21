@@ -1,0 +1,3 @@
+[submodule "ProjetX"]
+	path = ProjetX
+	url = git@github.com:MikkoPet/ProjX.git
