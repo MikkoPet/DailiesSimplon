@@ -11,4 +11,4 @@ Benjamin
 - [x] Faire le parcours Git-it (Nodeschool.io)
 - [x] Faire ses premiers commits sur les daily objectives
 - [x] Faire ses premiers pushs des daily-objectives sur son compte Github
->>>>>>> 0c1988ed765b2162ae220fd9cfc4e1c045be61ef
+
