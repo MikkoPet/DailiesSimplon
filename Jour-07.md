@@ -18,11 +18,11 @@ Hachemi
   - [ ] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
 - [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
-    - [ ] À quoi sert la commande `git fetch —prune`
-    - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
+    - [x] À quoi sert la commande `git fetch —prune`
+    - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
   - [ ] Editeur 
   - [ ] Différenciateur (par ex : Delta) 
-  - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Aliases 
+  - [x] Comprendre la différence entre config locale, globale et système
 
