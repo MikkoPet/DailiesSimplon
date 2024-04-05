@@ -6,13 +6,13 @@ Hachemi
 
 ### Github
 
-- [ ] Finir les dailys précédents
+- [x] Finir les dailys précédents
 - [x] Découverte de Github CLI (pour ceux qui ont travaillé sur autre chose la semaine précédente)
   - [x] Créer un cheat sheet sur Github CLI (individuel)
   - [x] Installation et connexion
   - [ ] Faire le tour du propriétaire
   - [x] Intégration de `gh` dans son workflow
-  - [ ] Finalisation de son profile Github
+  - [x] Finalisation de son profile Github
 
 ### Gitflow
 
