@@ -7,7 +7,7 @@ Hachemi
 ### Maquettage
 
 - [x] Découvrir le maquettage d'interface d'une application
-  - [ ] Comprendre la différence entre :
+  - [x] Comprendre la différence entre :
     - [x] Zoning
     - [x] Wireframe
     - [x] Mockup
@@ -25,9 +25,9 @@ Hachemi
   - [x] Comprendre la structure de base HTML et la syntaxe
   - [x] Découvrir les principaux tags HTML et comprendre leur utilité
   - [x] Savoir architecturer une page HTML basique
-  - [ ] Comprendre le fonctionnement des attributs en HTML
+  - [x] Comprendre le fonctionnement des attributs en HTML
   - [x] Savoir commenter dans une page HTML
   - [x] Découvrir le principe de parents/enfants
-  - [ ] Découvrir le HTML5 sémantique
+  - [x] Découvrir le HTML5 sémantique
 - [x] Comprendre la différence entre les liens relatifs et liens absolus
 - [x] Créer sa première page HTML
